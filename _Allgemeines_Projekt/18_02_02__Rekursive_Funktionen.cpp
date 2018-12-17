@@ -7,8 +7,8 @@ PROJEKT: Intervallschachtelung am Beispiel Wurzel 2
 ===========================================================================================*/
 
 
- /// DAS ISZ EINE ÄNDERUNG
-
+ /// DAS ISZ EINE Ã„NDERUNG
+/// noch eine Ã„nderung
  // !!
 #include <stdio.h>
 #include <conio.h>
@@ -55,10 +55,10 @@ void main(void)
 
 		// ========== Abfrage ob das Programm beendet werden soll ==================
 		printf("\n\n\n*******************");
-		printf("\n Soll das Programm beenden werden?\n  [ 1.] BEENDEN\n  [ 2.] Nicht beenden\n"); // Buchstaben dürfen nicht gedrückt werden!
+		printf("\n Soll das Programm beenden werden?\n  [ 1.] BEENDEN\n  [ 2.] Nicht beenden\n"); // Buchstaben dÃ¼rfen nicht gedrÃ¼ckt werden!
 		scanf_s("%i", &end);
 		
-	} while (end != 1);	// Solange die 1 nicht gedrückt wird, wiederholt sich die 'do'-Schleife
+	} while (end != 1);	// Solange die 1 nicht gedrÃ¼ckt wird, wiederholt sich die 'do'-Schleife
 }
 
 // ===== Funktionen =====
@@ -67,7 +67,7 @@ int zweihoch( int n)
 {
 	int erg = 1;
 	
-	if (n > 0)	// Es wird eine Bedingung zum Beenden benötigt !! // sonst Stack overflow
+	if (n > 0)	// Es wird eine Bedingung zum Beenden benÃ¶tigt !! // sonst Stack overflow
 	{
 		erg = zweihoch(n-1) * 2;  // Funktion ruft sich selbst auf
 	}
