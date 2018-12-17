@@ -5,11 +5,21 @@ NAME: ALEX HUBER	KLASSE: FTE1	DATUM: 26.01.18
 PROJEKT: Intervallschachtelung am Beispiel Wurzel 2
 
 ===========================================================================================*/
+//
 
+//hey
+
+//ho
+
+//trallala
+
+///jbsjbsjbs
 
  /// DAS ISZ EINE ÄNDERUNG
 /// noch eine Änderung
  // !!
+
+/// von alex
 #include <stdio.h>
 #include <conio.h>
 #define _USE_MATH_DEFINES		// Reihenfolge des #define und #include wichtig, 
