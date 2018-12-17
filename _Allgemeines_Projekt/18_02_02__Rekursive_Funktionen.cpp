@@ -6,6 +6,10 @@ PROJEKT: Intervallschachtelung am Beispiel Wurzel 2
 
 ===========================================================================================*/
 
+
+ /// DAS ISZ EINE ÄNDERUNG
+
+ // !!
 #include <stdio.h>
 #include <conio.h>
 #define _USE_MATH_DEFINES		// Reihenfolge des #define und #include wichtig, 
