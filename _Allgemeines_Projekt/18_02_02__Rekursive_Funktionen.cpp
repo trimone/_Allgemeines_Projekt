@@ -11,9 +11,14 @@ PROJEKT: Intervallschachtelung am Beispiel Wurzel 2
 
 //ho
 
+/// das kommt von alex ;)
+
+
  /// DAS ISZ EINE ÄNDERUNG
 /// noch eine Änderung
  // !!
+
+/// von alex
 #include <stdio.h>
 #include <conio.h>
 #define _USE_MATH_DEFINES		// Reihenfolge des #define und #include wichtig, 
